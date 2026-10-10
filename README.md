@@ -10,3 +10,5 @@ A multi server setup on AWS EC2: 1 control node and 2 managed nodes, managed wit
 
 ## Tools
 AWS EC2, Ansible, Ubuntu, SSH, Git
+
+ Wrote an Ansible playbook that installs and starts nginx on both target servers
